@@ -1,0 +1,265 @@
+{
+  u'entry': {
+    u'category': [
+      {
+        u'term': u'http://gdata.youtube.com/schemas/2007#video',
+        u'scheme': u'http://schemas.google.com/g/2005#kind'
+      },
+      {
+        u'term': u'Entertainment',
+        u'scheme': u'http://gdata.youtube.com/schemas/2007/categories.cat',
+        u'label': u'Entertainment'
+      }
+    ],
+    u'yt$statistics': {
+      u'viewCount': u'155671',
+      u'favoriteCount': u'0'
+    },
+    u'updated': {
+      u'$t': u'2015-03-20T07:13:01.000Z'
+    },
+    u'xmlns$gd': u'http://schemas.google.com/g/2005',
+    u'author': [
+      {
+        u'name': {
+          u'$t': u'UTV Motion Pictures'
+        },
+        u'yt$userId': {
+          u'$t': u'yvOJDBxhi1yqW97hXw3BDw'
+        },
+        u'uri': {
+          u'$t': u'http://gdata.youtube.com/feeds/api/users/UTVMotionPictures'
+        }
+      }
+    ],
+    u'gd$comments': {
+      u'gd$feedLink': {
+        u'href': u'http://gdata.youtube.com/feeds/api/videos/NC7GuohSdWA/comments?v=2',
+        u'countHint': 30,
+        u'rel': u'http://gdata.youtube.com/schemas/2007#comments'
+      }
+    },
+    u'title': {
+      u'$t': u'Official Trailer | Swades | Shahrukh Khan - Gayatri Joshi'
+    },
+    u'gd$rating': {
+      u'max': 5,
+      u'average': 4.9096045,
+      u'numRaters': 177,
+      u'rel': u'http://schemas.google.com/g/2005#overall',
+      u'min': 1
+    },
+    u'media$group': {
+      u'media$player': {
+        u'url': u'http://www.youtube.com/watch?v=NC7GuohSdWA&feature=youtube_gdata_player'
+      },
+      u'media$category': [
+        {
+          u'$t': u'Entertainment',
+          u'scheme': u'http://gdata.youtube.com/schemas/2007/categories.cat',
+          u'label': u'Entertainment'
+        }
+      ],
+      u'media$title': {
+        u'$t': u'Official Trailer | Swades | Shahrukh Khan - Gayatri Joshi',
+        u'type': u'plain'
+      },
+      u'media$license': {
+        u'$t': u'youtube',
+        u'href': u'http://www.youtube.com/t/terms',
+        u'type': u'text/html'
+      },
+      u'media$restriction': [
+        {
+          u'$t': u'KP MM CU LY IQ IR',
+          u'type': u'country',
+          u'relationship': u'deny'
+        }
+      ],
+      u'yt$uploaded': {
+        u'$t': u'2011-09-23T08:42:15.000Z'
+      },
+      u'yt$videoid': {
+        u'$t': u'NC7GuohSdWA'
+      },
+      u'yt$duration': {
+        u'seconds': u'82'
+      },
+      u'yt$uploaderId': {
+        u'$t': u'UCyvOJDBxhi1yqW97hXw3BDw'
+      },
+      u'media$thumbnail': [
+        {
+          u'url': u'http://i.ytimg.com/vi/NC7GuohSdWA/default.jpg',
+          u'width': 120,
+          u'time': u'00:00:41',
+          u'yt$name': u'default',
+          u'height': 90
+        },
+        {
+          u'url': u'http://i.ytimg.com/vi/NC7GuohSdWA/mqdefault.jpg',
+          u'width': 320,
+          u'yt$name': u'mqdefault',
+          u'height': 180
+        },
+        {
+          u'url': u'http://i.ytimg.com/vi/NC7GuohSdWA/hqdefault.jpg',
+          u'width': 480,
+          u'yt$name': u'hqdefault',
+          u'height': 360
+        },
+        {
+          u'url': u'http://i.ytimg.com/vi/NC7GuohSdWA/sddefault.jpg',
+          u'width': 640,
+          u'yt$name': u'sddefault',
+          u'height': 480
+        },
+        {
+          u'url': u'http://i.ytimg.com/vi/NC7GuohSdWA/1.jpg',
+          u'width': 120,
+          u'time': u'00:00:20.500',
+          u'yt$name': u'start',
+          u'height': 90
+        },
+        {
+          u'url': u'http://i.ytimg.com/vi/NC7GuohSdWA/2.jpg',
+          u'width': 120,
+          u'time': u'00:00:41',
+          u'yt$name': u'middle',
+          u'height': 90
+        },
+        {
+          u'url': u'http://i.ytimg.com/vi/NC7GuohSdWA/3.jpg',
+          u'width': 120,
+          u'time': u'00:01:01.500',
+          u'yt$name': u'end',
+          u'height': 90
+        }
+      ],
+      u'media$content': [
+        {
+          u'medium': u'video',
+          u'url': u'http://www.youtube.com/v/NC7GuohSdWA?version=3&f=videos&app=youtube_gdata',
+          u'type': u'application/x-shockwave-flash',
+          u'yt$format': 5,
+          u'duration': 82,
+          u'expression': u'full',
+          u'isDefault': u'true'
+        },
+        {
+          u'medium': u'video',
+          u'url': u'rtsp://r4---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQlgdVKIusYuNBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp',
+          u'type': u'video/3gpp',
+          u'yt$format': 1,
+          u'duration': 82,
+          u'expression': u'full'
+        },
+        {
+          u'medium': u'video',
+          u'url': u'rtsp://r4---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQlgdVKIusYuNBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp',
+          u'type': u'video/3gpp',
+          u'yt$format': 6,
+          u'duration': 82,
+          u'expression': u'full'
+        }
+      ],
+      u'media$credit': [
+        {
+          u'$t': u'utvmotionpictures',
+          u'scheme': u'urn:youtube',
+          u'role': u'uploader',
+          u'yt$type': u'partner',
+          u'yt$display': u'UTV Motion Pictures'
+        }
+      ],
+      u'media$keywords': {
+        
+      },
+      u'media$description': {
+        u'$t': u'A successful Indian scientist returns to an Indian village to take his nanny to America with him and in the process rediscovers his roots.',
+        u'type': u'plain'
+      }
+    },
+    u'published': {
+      u'$t': u'2011-09-23T08:42:15.000Z'
+    },
+    u'xmlns$yt': u'http://gdata.youtube.com/schemas/2007',
+    u'yt$accessControl': [
+      {
+        u'action': u'comment',
+        u'permission': u'allowed'
+      },
+      {
+        u'action': u'commentVote',
+        u'permission': u'allowed'
+      },
+      {
+        u'action': u'videoRespond',
+        u'permission': u'moderated'
+      },
+      {
+        u'action': u'rate',
+        u'permission': u'allowed'
+      },
+      {
+        u'action': u'embed',
+        u'permission': u'allowed'
+      },
+      {
+        u'action': u'list',
+        u'permission': u'allowed'
+      },
+      {
+        u'action': u'autoPlay',
+        u'permission': u'allowed'
+      },
+      {
+        u'action': u'syndicate',
+        u'permission': u'allowed'
+      }
+    ],
+    u'xmlns$media': u'http://search.yahoo.com/mrss/',
+    u'content': {
+      u'src': u'http://www.youtube.com/v/NC7GuohSdWA?version=3&f=videos&app=youtube_gdata',
+      u'type': u'application/x-shockwave-flash'
+    },
+    u'xmlns': u'http://www.w3.org/2005/Atom',
+    u'link': [
+      {
+        u'href': u'http://www.youtube.com/watch?v=NC7GuohSdWA&feature=youtube_gdata',
+        u'type': u'text/html',
+        u'rel': u'alternate'
+      },
+      {
+        u'href': u'http://gdata.youtube.com/feeds/api/videos/NC7GuohSdWA/related?v=2',
+        u'type': u'application/atom+xml',
+        u'rel': u'http://gdata.youtube.com/schemas/2007#video.related'
+      },
+      {
+        u'href': u'http://m.youtube.com/details?v=NC7GuohSdWA',
+        u'type': u'text/html',
+        u'rel': u'http://gdata.youtube.com/schemas/2007#mobile'
+      },
+      {
+        u'href': u'http://gdata.youtube.com/feeds/api/users/yvOJDBxhi1yqW97hXw3BDw?v=2',
+        u'type': u'application/atom+xml',
+        u'rel': u'http://gdata.youtube.com/schemas/2007#uploader'
+      },
+      {
+        u'href': u'http://gdata.youtube.com/feeds/api/videos/NC7GuohSdWA?v=2',
+        u'type': u'application/atom+xml',
+        u'rel': u'self'
+      }
+    ],
+    u'gd$etag': u'W/"D0IMQH47eCp7I2A9XRRVGE4."',
+    u'yt$rating': {
+      u'numLikes': u'173',
+      u'numDislikes': u'4'
+    },
+    u'id': {
+      u'$t': u'tag:youtube.com,2008:video:NC7GuohSdWA'
+    }
+  },
+  u'version': u'1.0',
+  u'encoding': u'UTF-8'
+}
